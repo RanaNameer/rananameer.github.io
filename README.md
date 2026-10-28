@@ -24,3 +24,5 @@ The dev server runs at `http://localhost:4000/`.
 ## Deployment
 
 Pushing to `main` triggers `.github/workflows/deploy.yml`, which builds the site with Jekyll and publishes it to the `gh-pages` branch. GitHub Pages (Settings → Pages) should be set to deploy from the `gh-pages` branch.
+
+`Gemfile.lock` is intentionally not committed: CI pins Ruby 3.3.5, but an older local Ruby resolves older, incompatible versions of `jekyll-sass-converter`/`sass-embedded` (missing `color.channel`, breaking the CSS build). Each environment resolves its own lockfile instead.
