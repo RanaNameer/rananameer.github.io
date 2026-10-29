@@ -6,7 +6,7 @@ subtitle: Software engineer · ML systems
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: RanaNameer.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>rana.nameer.khan@gmail.com</p>
