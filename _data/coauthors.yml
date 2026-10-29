@@ -1,0 +1,6 @@
+# maps bibtex cite_keys (lowercase surname) to co-author info, used to link
+# co-author names on the publications page
+# example:
+# "smith":
+#   - firstname: ["Jane", "J."]
+#     url: https://example.com

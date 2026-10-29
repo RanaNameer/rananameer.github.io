@@ -1,0 +1,5 @@
+# maps bibtex "abbr" values to venue URLs/colors for the publications page
+# example:
+# "NeurIPS":
+#   url: https://neurips.cc/
+#   color: "#68488a"

@@ -1,0 +1,93 @@
+cv:
+  name: Rana Nameer Hussain Khan
+  label: Software Engineer
+  email: rana.nameer.khan@gmail.com
+  location: ""
+  image: ""
+  summary: Software engineer working across ML systems, full-stack development, and test automation, with a research background in LLM code generation and provenance-aware semantics.
+
+  social_networks:
+    - network: GitHub
+      username: RanaNameer
+    - network: LinkedIn
+      username: rana-nameer
+
+  sections:
+    Education:
+      - institution: Virginia Tech
+        location: Blacksburg, VA
+        area: Computer Science
+        studyType: PhD studies
+        start_date: 2024-01
+        end_date: 2025-05
+
+      - institution: National University of Sciences and Technology (NUST)
+        location: Islamabad, Pakistan
+        area: Software Engineering
+        studyType: BS
+        start_date: 2019-09
+        end_date: 2023-06
+
+    Experience:
+      - company: NetSol
+        position: Software Engineer
+        location: ""
+        start_date: 2026-03
+        end_date: present
+        summary: Automation engineer for web and mobile application testing, developing and maintaining automated test frameworks that keep quality, reliability, and performance consistent across platforms.
+
+      - company: NuAxis Innovations
+        position: Software Engineer
+        location: ""
+        start_date: 2025-06
+        end_date: 2025-12
+        summary: Led development of NuPermits, an all-in-one permitting platform covering both federal and state permits. Contributed to proposal and bid preparation for a federal contract, aligning technical solutions with client requirements.
+
+      - company: Virginia Tech
+        position: Teaching Assistant
+        location: ""
+        start_date: 2024-01
+        end_date: 2025-05
+        summary: Assisted in CS-1114 (Intro to Software Design) and CS-3214 (Computer Systems). Led two lab sessions a week, held office hours, and graded coursework.
+
+      - company: UBM Technologies
+        position: Machine Learning Intern
+        location: ""
+        start_date: 2022-06
+        end_date: 2022-08
+        summary: Applied ML techniques from academic research to livestock behavior detection, designing estrus and activity detection algorithms from accelerometer data.
+
+    Publications:
+      - title: "MACOG: Multi-Agent Code Orchestrated Generation"
+        authors:
+          - Rana Nameer Hussain Khan
+        publisher: IARIA CC 2026
+        releaseDate: 2026-01-01
+        url: https://arxiv.org/abs/2510.03902
+        summary: A multi-agent LLM system for generating reliable Infrastructure-as-Code. Achieved state-of-the-art performance on IaC-Eval, with reproducible tooling and an open-sourced implementation.
+
+      - title: "ProvGen: Provenance-Aware Semantics for Synthesized Programs"
+        authors:
+          - Rana Nameer Hussain Khan
+        publisher: Under review
+        releaseDate: 2026-01-01
+        summary: A provenance-aware operational semantics that treats LLM code synthesis as a first-class effect, pairing each synthesis step with a structured provenance capsule and a proved Reproduction Soundness theorem.
+
+    Awards:
+      - title: 2nd place, SEECS Open House
+        awarder: NUST SEECS
+        summary: Final Year Project (ProfitSignals)
+
+      - title: Top 3 Final Year Project across cohort
+        awarder: NUST SEECS
+        summary: Nominated for the Rector's Gold Medal
+
+    Skills:
+      - name: Languages
+        keywords: "Python, C/C++, Java, JavaScript, C#, SQL, MongoDB"
+
+      - name: Frameworks & tools
+        keywords: "Flask, React, Node.js, .NET, Docker, Kubernetes (EKS), AWS EC2, Git, Linux/Unix"
+
+      - name: Practices
+        keywords: "TDD, Agile, MVC"
