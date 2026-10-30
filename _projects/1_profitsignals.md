@@ -2,7 +2,7 @@
 layout: page
 title: ProfitSignals
 description: A cryptocurrency copy-trading application that lets beginners follow professional traders.
-importance: 1
+importance: 2
 ---
 
 Final year project, placed 2nd at SEECS Open House and nominated for the Rector's Gold Medal (top 3 of cohort).
