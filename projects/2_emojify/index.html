@@ -38,7 +38,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "Experience, education, publications, and skills. My transcript is available here.",
+          description: "Experience, education, publications, and skills. Transcript PDF at /assets/pdf/RanaNameer_Transcript.pdf.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -58,6 +58,16 @@ ninja.data = [{
           description: "A Python web-scraping tool that compares product prices across multiple e-commerce sites.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_ask_price/";
+            },},{id: "projects-provgen-provenance-aware-semantics-for-synthesized-programs",
+          title: 'ProvGen: Provenance-Aware Semantics for Synthesized Programs',
+          description: "A provenance-aware operational semantics for LLM code synthesis. Under review.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_provgen/";
+            },},{id: "projects-spin-fairness-without-demographics-via-nuisance-invariance",
+          title: 'SPIN: Fairness Without Demographics via Nuisance Invariance',
+          description: "Reducing worst-group error without group labels by combining nuisance invariance with error-set up-weighting. In preparation.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/5_spin/";
             },},{
         id: 'social-cv',
         title: 'CV',
