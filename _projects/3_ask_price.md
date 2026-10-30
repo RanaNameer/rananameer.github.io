@@ -2,7 +2,7 @@
 layout: page
 title: Ask Price
 description: A Python web-scraping tool that compares product prices across multiple e-commerce sites.
-importance: 4
+importance: 5
 ---
 
 A Python web-scraping tool that extracts product names, prices, and descriptions from multiple e-commerce sites, then surfaces them in a searchable comparison interface for smarter purchasing decisions.
